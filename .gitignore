@@ -1,0 +1,9 @@
+# xcode noise 
+Build/*
+*.pbxuser
+*.model1v3
+
+.svn
+
+.DS_Store
+profile
